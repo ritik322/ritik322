@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Ritik  
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Ritik  
 
 ## 🚀 About Me  
 - 💻 **Web Developer** who believes in creating solutions, not just writing code  
